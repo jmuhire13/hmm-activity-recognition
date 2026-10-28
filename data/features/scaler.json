@@ -1,0 +1,30 @@
+{
+  "mean": {
+    "acc_std": -0.44714185353767133,
+    "acc_corr": 0.26584476891211484,
+    "acc_jerk_ratio": 0.8213421219990316,
+    "acc_dom_freq": 0.8768720700290216,
+    "acc_low_freq_share": 0.38554787688845277,
+    "acc_spec_centroid": 6.061948020634484,
+    "gyro_std": -0.9424883463139944,
+    "gyro_corr": 0.24830035329428846,
+    "gyro_jerk_ratio": 0.7820537435623818,
+    "gyro_dom_freq": 1.0280513126659863,
+    "gyro_low_freq_share": 0.49076817099237774,
+    "gyro_spec_centroid": 5.7978106187655944
+  },
+  "std": {
+    "acc_std": 1.0945279819553204,
+    "acc_corr": 0.1910718971875674,
+    "acc_jerk_ratio": 0.31892178848422803,
+    "acc_dom_freq": 0.6390254531985341,
+    "acc_low_freq_share": 0.2093010917761763,
+    "acc_spec_centroid": 3.2337745578682875,
+    "gyro_std": 1.051226542999049,
+    "gyro_corr": 0.1557771373584738,
+    "gyro_jerk_ratio": 0.3998799138282296,
+    "gyro_dom_freq": 0.9160764684555528,
+    "gyro_low_freq_share": 0.2666766449285909,
+    "gyro_spec_centroid": 4.045337719934118
+  }
+}

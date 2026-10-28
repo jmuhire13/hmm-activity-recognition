@@ -1,0 +1,21 @@
+# Private working files
+CLAUDE.md
+ASSIGNMENT-CONTEXT.md
+WORK_LOG.md
+LEARNING_NOTES.md
+
+# Assignment brief, rubric and report drafts
+brief/
+rubric/
+report_draft/
+
+# Python and notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Videos are shared by link, not committed
+*.mp4
+*.mov
