@@ -19,3 +19,6 @@ venv/
 # Videos are shared by link, not committed
 *.mp4
 *.mov
+
+# Recording metadata contains the phone's device identifier
+Metadata.csv

@@ -1,0 +1,9 @@
+take,activity,start_s,end_s
+test_take_1_still_first,Still,0.0,16.5
+test_take_1_still_first,Standing,21.0,34.0
+test_take_1_still_first,Walking,34.0,46.0
+test_take_1_still_first,Jumping,46.0,62.0
+test_take_2_jumping_first,Jumping,0.0,20.5
+test_take_2_jumping_first,Walking,20.5,40.0
+test_take_2_jumping_first,Standing,42.0,50.5
+test_take_2_jumping_first,Still,55.0,68.5
